@@ -1,4 +1,4 @@
-# AWS 2 Tier Architecture setup with AWS CLI - Wordpress application on AWS RDS running MySQL
+# AWS 2 Tier Architecture setup with AWS CLI - Wordpress application on AWS RDS running MySQL .
 
 There are two parts to the setup,
 - **Part 1** - Setting up the network infrastructure (VPC, Subnets, Security Groups)
